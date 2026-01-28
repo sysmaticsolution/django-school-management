@@ -1,0 +1,14 @@
+Requirement already satisfied: Django in ./venv/lib/python3.12/site-packages (5.2.10)
+Collecting Django
+  Downloading django-6.0.1-py3-none-any.whl.metadata (3.9 kB)
+Requirement already satisfied: asgiref>=3.9.1 in ./venv/lib/python3.12/site-packages (from Django) (3.11.0)
+Requirement already satisfied: sqlparse>=0.5.0 in ./venv/lib/python3.12/site-packages (from Django) (0.5.5)
+Downloading django-6.0.1-py3-none-any.whl (8.3 MB)
+   ━━━━━━━━━━ 8.3/8.3   10.8 MB/s eta 0:00:00
+              MB                             
+Installing collected packages: Django
+  Attempting uninstall: Django
+    Found existing installation: Django 5.2.10
+    Uninstalling Django-5.2.10:
+      Successfully uninstalled Django-5.2.10
+Successfully installed Django-6.0.1

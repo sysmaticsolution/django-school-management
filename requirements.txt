@@ -1,0 +1,30 @@
+# Core Dependencies
+Django>=6.0
+django-jazzmin>=3.0.0
+Pillow>=10.0.0
+python-decouple>=3.8
+
+# Database
+psycopg2-binary>=2.9.9
+
+# REST API
+djangorestframework>=3.14.0
+django-filter>=23.5
+djangorestframework-simplejwt>=5.3.1
+drf-spectacular>=0.27.0
+
+# PDF Generation
+reportlab>=4.0.0
+xhtml2pdf>=0.2.11
+
+# Excel Export
+openpyxl>=3.1.2
+
+# Development
+django-debug-toolbar>=4.2.0
+
+# Production (uncomment when needed)
+# gunicorn>=21.2.0
+# whitenoise>=6.6.0
+# redis>=5.0.0
+# django-redis>=5.4.0
